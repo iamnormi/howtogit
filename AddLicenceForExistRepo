@@ -1,0 +1,13 @@
+
+If you release it with a license, you allow people to use it as the licence describes. You can't just say "no I changed my mind I don't want it to be under GPL". Of course your future release may be in another license (GPL forces other people's modified versions to be GPL, but you, as the creator, may release new versions of your work under a new license).
+
+Amendment
+Websites like choosealicense.com may help you to choose a suitable license. The license picker provides some templates that can be committed to your repository; for an existing repository you can bring it back this way:
+
+* browse to your repository at GitHub.com
+* create a new file by pressing the blue + icon (updated to: New File button)
+* name it LICENSE.md or LICENSE.txt to show up the license picker again
+* choose a template
+
+Ref:https://stackoverflow.com/questions/20243214/how-to-change-the-license-for-a-project-at-github
+

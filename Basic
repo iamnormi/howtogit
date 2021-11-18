@@ -1,0 +1,27 @@
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+$ git status
+
+#To view current Status on current local session happening.
+
+$ git clone <urlofrepo>
+
+#Clone a Autorized repo to make changes
+
+#After making changes
+
+$ git add *
+
+#Add all file to commit
+
+$ git commit -m <CommitPurposeMessage>
+
+#Write a Message About commit
+
+# git push
+
+finally push or upload all 
