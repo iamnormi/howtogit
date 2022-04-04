@@ -25,3 +25,6 @@ $ git commit -m <CommitPurposeMessage>
 # git push
 
 finally push or upload all 
+
+To create github pages : 
+Ref : https://pages.github.com/
