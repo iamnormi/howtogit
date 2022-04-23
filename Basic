@@ -14,11 +14,11 @@ $ git clone <urlofrepo>
 
 #After making changes
 
-$ git add .
+$ git add * ; git add --all
 
 #Add all file to commit
 
-$ git commit -m <CommitPurposeMessage>
+$ git commit -m "CommitPurposeMessage"
 
 #Write a Message About commit
 
