@@ -22,7 +22,7 @@ $ git commit -m <CommitPurposeMessage>
 
 #Write a Message About commit
 
-# git push
+$ git push -u origin main
 
 finally push or upload all 
 
