@@ -1,6 +1,60 @@
 # HowtoGithub
 Basic Myself knowledge About Git to do Push commit edit files.
 
+# Basic
+
+To Configure username and email:
+```
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+```
+#To view current Status on current local session happening.
+```
+git status
+```
+To clone a repo 
+```
+git clone <urlofrepo>
+```
+## After making changes
+
+And all file which edited recently:
+```
+git add --all
+```
+Write a message about changes made:
+```
+git commit -m "CommitPurposeMessage"
+```
+To upload all file to github
+```
+git push -u origin main
+```
+
+
+# To create github pages : 
+Refer : https://pages.github.com/
+
+
+# local to remote in cli:
+
+## …or create a new repository on the command line
+```
+echo "# sfr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/iamvk1437k/sfr.git
+git push -u origin main
+```
+## …or push an existing repository from the command line
+```
+git remote add origin https://github.com/iamvk1437k/sfr.git
+git branch -M main
+git push -u origin main
+```
+
 # AddLicenceForExistRepo
  If you release it with a license, you allow people to use it as the licence describes. You can't just say "no I changed my mind I don't want it to be under GPL". Of course your future release may be in another license (GPL forces other people's modified versions to be GPL, but you, as the creator, may release new versions of your work under a new license).
 
