@@ -8,7 +8,7 @@ To Configure username and email:
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 ```
-#To view current Status on current local session happening.
+To view current Status on current local session happening.
 ```
 git status
 ```
