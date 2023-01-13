@@ -1,5 +1,7 @@
 # HowtoGithub
 Basic Myself knowledge About Git to do Push commit edit files.
+# fck github
+https://stackoverflow.com/questions/43406317/correct-syntax-for-newline-in-github-bio
 
 # Basic
 
