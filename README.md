@@ -81,13 +81,12 @@ If you're using a web interface to your repository (Github, Bitbucket, Gitlab, e
 
 | [Reference](https://superuser.com/questions/812931/how-to-configure-automatic-password-handling-for-git-commands) |
 
-
 ## Dev = 1'43
-This guide is maintained by [**1437k**](https://github.com/iamvk1437k).
+These codes was maintained by [**iamNormi**](https://github.com/iamNormi).
 
-[![1437k](https://github.com/iamvk1437k.png?size=100)](https://github.com/iamvk1437k) |
+[![iamNormi](https://github.com/iamNormi.png?size=100)](https://github.com/iamNormi) |
 --- |
-[1437k](https://github.com/iamvk1437k) |
+[iamNormi](https://github.com/iamNormi) |
 
 ## License
 
