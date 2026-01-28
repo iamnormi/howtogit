@@ -1,5 +1,6 @@
 # HowtoGithub
-Basic Myself knowledge About Git to do Push commit edit files.
+Basic knowledge about myself regarding Git to do push, commit, and edit files.
+
 # github lover
 https://stackoverflow.com/questions/43406317/correct-syntax-for-newline-in-github-bio
 
